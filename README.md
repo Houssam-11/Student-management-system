@@ -1,4 +1,5 @@
 # Student Management System (SMS)
+![Student Management System ](student-management-system.png)
 
 ## Description
 This Java-based Student Management System (SMS)  is designed to facilitate the management of student data within educational institutions. It enables efficient handling of student records, including personal details, academic history, and enrollment status. The system is built using Java, ensuring robust performance and compatibility across various platforms.
